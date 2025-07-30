@@ -23,6 +23,10 @@ To deploy this application, ensure you have the following:
 
 ---
 
+## 📸 Screenshot
+
+![Argo CD showing synced NGINX app](nginx-argo-app-screenshot.png)
+
 ## 🚀 How to Deploy
 
 You can deploy this app via **Argo CD** by pointing it to this repository:
